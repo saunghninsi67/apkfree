@@ -1,0 +1,14 @@
+{ 
+// version for updating, if there is an update, need to change more numbers than before 
+"Version":"1.1", 
+//link for server update 
+"Url":"https://github.com/saunghninsi67/apkfree/raw/main/saung.zip" , 
+"Changelog":"အက်ဒိတ်တင်ထားတဲ့နေရက် 10/8/2023 မဂ်လာပါ ထိုင်းရောက်ရွှေမြန်မာများ အင်တာနက် ၁လ ၅၀ဘတ် ​သုံးပြုနိုင်ပါသည် DTAC_AIS_TRUE သက်တမ်းရှိရုံးနဲ့ သုံးပြုနိုင်ပါသည် DTAC တွက် 10ဖိုင့်ထည့်ထားပေးတယ်APKသုံးနေတဲ့ သူငယ်ချင်းများ အလုပ်ကိုင်ဆင်ပြေကြပညစေဗျာ😍🙏🙏🙏", 
+// don't mess with the bottom 
+"latestVersion": "1.0.0", 
+"latestVersionCode": "1", 
+"url": "", 
+"releaseNotes": [ 
+  "-Demo" 
+    ] 
+    }
